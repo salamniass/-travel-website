@@ -1,0 +1,24 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salamniass/-travel-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salamniass/-travel-website/issues"
+  },
+  "homepage": "https://github.com/salamniass/-travel-website#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
